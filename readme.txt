@@ -1,2 +1,1 @@
-Creating a new branch is quick.
-MASTER branch.
+Creating a new branch is quick. 
